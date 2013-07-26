@@ -1,4 +1,4 @@
-meta
+di.me-project
 ====
 
-General repository for dime-project as a central place for documentation and feedback.
+General repository for di.me-project as a central place for documentation and feedback.
